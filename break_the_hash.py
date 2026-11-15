@@ -45,7 +45,7 @@ def where(word):
 # YOUR FIVE VILLAIN WORDS GO HERE — five DIFFERENT real words that all
 # land in the SAME bucket under the bad hash. Hunt interactively with:
 #     python -i break_the_hash.py      then      where("yourword")
-YOUR_FIVE = []
+YOUR_FIVE = ["hot", "cater", "saw", "trace", "was"]
 # ======================================================================
 
 WORDS = """
